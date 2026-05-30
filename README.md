@@ -186,4 +186,4 @@ The project uses stack-allocated data structures and carefully manages all syste
 Computer Engineering Student — University of Ottawa
 Interested in systems programming, concurrency, and low-level software development
 GitHub: [itoure12](https://github.com/itoure12)
-LinkedIn: [Idriss Hamad Toure](https://www.linkedin.com/in/IdrissHamadToure)
+LinkedIn: [Idriss Hamad Toure](https://www.linkedin.com/in/idriss-hamad-toure)
